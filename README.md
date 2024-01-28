@@ -1,6 +1,6 @@
 ##In 2024 all txds/images from this mod list were tainted with comic look by Zeneric, including QoL and game altering mods, by varies of people (see modlist for links/credits) for a proper GTA SA Comical Experience.
 
-[next gen effect ezekiel](https://www.mixmods.com.br/2022/04/sa-nextgen-remaster-effects/).
+###[next gen effect ezekiel](https://www.mixmods.com.br/2022/04/sa-nextgen-remaster-effects/).
 
 [next gen weapons ezekiel](https://www.mixmods.com.br/2021/05/nextgen-remaster-weapons-pack-de-armas-em-hd/).
 
