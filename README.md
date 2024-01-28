@@ -1,4 +1,4 @@
-In 2024 all txds/images from this mod list were tainted with comic look by Zeneric including external mods made by varies of beautiful people (see modlist for links/credits) for a proper GTA SA Comical Experience.
+##In 2024 all txds/images from this mod list were tainted with comic look by Zeneric, including QoL and game altering mods, by varies of people (see modlist for links/credits) for a proper GTA SA Comical Experience.
 
 [next gen effect ezekiel](https://www.mixmods.com.br/2022/04/sa-nextgen-remaster-effects/).
 
