@@ -1,28 +1,8 @@
 [next gen effect ezekiel](https://www.mixmods.com.br/2022/04/sa-nextgen-remaster-effects/).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-next gen weapons ezekiel 
-zen's gta sa weapons/pick ups remake
-skygfx extended + mobile details hd
-enhance particle txd
+[next gen weapons ezekiel](https://www.mixmods.com.br/2021/05/nextgen-remaster-weapons-pack-de-armas-em-hd/).
+zen's gta sa weapons/pick ups remake (downloadable on mixmods discord - [Mixmods Discord](https://www.mixmods.com.br/2021/01/discord-mixmods/)).
+[skygfx extended + mobile details hd](https://www.mixmods.com.br/2022/11/sa-skygfx/).
+[enhance particle txd](https://www.mixmods.com.br/2016/03/enhance-particletxd/).
 mixsets
 urbanize
 fla
