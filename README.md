@@ -1,4 +1,4 @@
-next gen effect ezekiel
+[next gen effect ezekiel](https://www.mixmods.com.br/2022/04/sa-nextgen-remaster-effects/).
 next gen weapons ezekiel 
 zen's gta sa weapons/pick ups remake
 skygfx extended + mobile details hd
