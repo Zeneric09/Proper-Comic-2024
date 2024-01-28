@@ -1,25 +1,23 @@
 
 All txds/images from this mod list were tainted with comic look by Zeneric, including QoL and game altering mods, by varies of people (see modlist for links/credits) for a proper GTA SA Comical 2024 Experience.
 
-[next gen effect ezekiel](https://www.mixmods.com.br/2022/04/sa-nextgen-remaster-effects/).
+[graphics tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/).
 
 [next gen weapons ezekiel](https://www.mixmods.com.br/2021/05/nextgen-remaster-weapons-pack-de-armas-em-hd/).
-
-zen's gta sa weapons/pick ups remake (downloadable on mixmods discord - [Mixmods Discord](https://www.mixmods.com.br/2021/01/discord-mixmods/)).
 
 [skygfx extended + mobile details hd](https://www.mixmods.com.br/2022/11/sa-skygfx/).
 
 [enhance particle txd](https://www.mixmods.com.br/2016/03/enhance-particletxd/).
 
-[mixsets](https://www.mixmods.com.br/2022/03/sa-mixsets/).
+[toonfx](https://www.mixmods.com.br/2017/12/toon-fx-efeitos-cartoon/).
+
+[mixsets](https://github.com/m0b-x/SA-MixSets/) - settings: 
 
 [urbanize](https://www.mixmods.com.br/2024/01/urbanize/).
 
-fla
+[open limit adjuster](https://www.mixmods.com.br/2022/10/open-limit-adjuster/).
 
-openlimitadjuster
-
-graphicstweaker
+[graphics tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/).
 
 reshade
 
