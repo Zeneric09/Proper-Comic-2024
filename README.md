@@ -30,7 +30,7 @@ REQUIRED FOR OPTIONAL MODS THAT USE COMICIFIED TEXTURES:
 
 You need to download comicified versions of the optional mods' textures that are listed here on this very page if you want to use the optional mods (that use textures): 
 
-[download optional comicified textures] - google drive - overwrite/replace all.
+[download optional comicified textures] - google drive.
 
 
 OPTIONAL RECOMMENDED MODS (THAT USE COMICIFIED TEXTURES) - FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™.
@@ -96,7 +96,7 @@ all of mods that use textures listed below need to go in gtasa/modloader/proper 
 [Zen's GTA SA Weapons/Pick ups Remake - download from mixmods discord server](https://www.mixmods.com.br/2021/01/discord-mixmods/).
 
 
-OPTIONAL RECOMMENDED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™. Mods listed below can be anywhere in modloader folder unless stated differently:
+OPTIONAL RECOMMENDED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™.
 
 [Proper PS2 Vehicles - download from mixmods discord server](https://www.mixmods.com.br/2021/01/discord-mixmods/).
 
