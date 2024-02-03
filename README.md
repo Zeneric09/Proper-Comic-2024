@@ -11,7 +11,7 @@ You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-pr
 
 and this: [Reshade](https://reshade.me/) and [download/use this reshade comic preset](https://pastebin.com/4qZic6cr).
 
-also this: [sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) - delete III.VC.SA.WindowedMode.asi and III.VC.SA.WindowedMode.ini (installed with shells mod causes crashes), and replace widescreenfix and silent patch with links provided below, and [replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
+also this: [sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) - put in root folder. delete III.VC.SA.WindowedMode.asi and III.VC.SA.WindowedMode.ini (installed with shells mod causes crashes), and replace widescreenfix and silent patch with links provided below, and [replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
 
 [widescreen fix](https://thirteenag.github.io/wfp#gtasa) - replace sa essential pack's widescreen fix and delete the sa essential pack's HOR + script.
 
@@ -118,7 +118,7 @@ REQUIRED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA SA COMICAL 2
 
 [new drag effect (skimming over water)](https://www.mixmods.com.br/2014/10/novo-efeito-de-arrasto-rasante-em-cima-dagua/).
 
-[skygfx extended + mobile details hd](https://www.mixmods.com.br/2022/11/sa-skygfx/) - [tweaked ini](https://pastebin.com/qaRmfQEj).
+[skygfx extended + mobile details hd](https://www.mixmods.com.br/2022/11/sa-skygfx/) - put in root folder - [tweaked ini](https://pastebin.com/qaRmfQEj).
 
 [More Radar Icons](https://www.mixmods.com.br/2022/01/more-radar-icons/).
 
@@ -138,17 +138,15 @@ REQUIRED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA SA COMICAL 2
 
 [modelextras](https://github.com/user-grinch/ModelExtras) 
 
-[weapon details](https://libertycity.net/files/gta-san-andreas/200595-weapon-details-v1-3.html).
-
 [ezekiel's real sky boxes](https://www.youtube.com/watch?v=-Dl6YYUEyPw&t=5s) - [tweaked ini](https://pastebin.com/9MUKNfEG).
 
-[24 hours real linear graphics timecyc](https://www.mixmods.com.br/2022/07/real-linear-graphics/).
+[24 hours real linear graphics timecyc](https://www.mixmods.com.br/2022/07/real-linear-graphics/) - put in root/data folder.
 
-[24 hrs asi](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/).
+[24 hrs asi](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/) - put in root folder.
 
 [effectloader](https://www.mixmods.com.br/2017/04/effects-loader-instalar-efeitos-sem-substituir-arquivos/).
 
-[imvehft and imvehft fix](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/).
+[imvehft and imvehft fix](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/) - put in root folder.
 
 e2001's male player animations ([download from mixmods discord server](https://www.mixmods.com.br/2021/01/discord-mixmods/)) - delete ped.ifp.
 
