@@ -9,7 +9,7 @@ Download GTA SA Proper Comic 2024:
 
 You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/).
 
-and this: [sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) and [replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
+and this: [sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/), delete III.VC.SA.WindowedMode.asi and III.VC.SA.WindowedMode.ini (installed with shells mod causes crashes), and [replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
 
 also this: [Reshade](https://reshade.me/) and [download/use this reshade comic preset](https://pastebin.com/4qZic6cr).
 
@@ -72,7 +72,7 @@ all of mods that use textures listed below need to go in gtasa/modloader/proper 
 
 [HD Underwater](https://www.mixmods.com.br/2022/06/sa-hd-underwater/).
 
-[bullet holes](https://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros/).
+[bullet holes](https://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros/) - may not work in new game (need to save and reload).
 
 [Improved Dumpsters](https://www.mixmods.com.br/2021/08/improved-dumpsters-lixeiras-remasterizadas-em-hd/).
 
@@ -140,8 +140,6 @@ OPTIONAL RECOMMENDED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA 
 [story mode 2.0](https://www.mixmods.com.br/2022/11/story-mode/) - delete models folder.
 
 [rain extinguish fire](https://www.mixmods.com.br/2021/10/rain-extinguish-fire-chuva-apaga-o-fogo/).
-
-[reshade](https://reshade.me/) - google drive.
 
 [modelextras](https://github.com/user-grinch/ModelExtras) 
 
@@ -307,7 +305,7 @@ e2001's male player animations ([download from mixmods discord server](https://w
 
 [shells - avoid windowed mode (causes crashes)](https://www.mixmods.com.br/2015/06/mod-shell-capsulas-de-bala-fix/).
 
-[shoreline waves](https://www.mixmods.com.br/2020/03/shoreline-waves-efeito-de-ondas/).
+[shoreline waves](https://www.mixmods.com.br/2020/03/shoreline-waves-efeito-de-ondas/) - put models folder in root folder and shoreline waves folder in modloader.
 
 [shot cam shake](https://www.mixmods.com.br/2018/12/shot-cam-shake-tremer-tela-enquanto-atira/) - [tweaked ini](https://pastebin.com/KMUgdJVp).
 
