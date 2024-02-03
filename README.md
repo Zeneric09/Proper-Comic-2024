@@ -9,7 +9,7 @@ Download GTA SA Proper Comic 2024:
 
 You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/).
 
-and this: [sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) - replace widescreen fix and silent patch and delete HOR +. see next two links/lines below. [replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
+and this: [sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) and [replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
 
 all of the mods listed here go in modloader folder unless stated differently.
 
