@@ -9,7 +9,9 @@ Download GTA SA Proper Comic 2024:
 
 You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/).
 
-(provide modloader ini).
+all of the mods listed here go in modloader folder unless stated differently.
+
+copy/paste this ini into your modloader.ini (
 
 credits/links of improved GTA SA vanilla textures I tainted with comic look:
 
