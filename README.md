@@ -29,14 +29,12 @@ credits/links of improved GTA SA vanilla textures I tainted with comic look (DON
 [Proper Vegetation Retex](https://www.mixmods.com.br/2021/07/proper-vegetation-retex-vegetacao-com-texturas-hd/).
 
 
-REQUIRED FOR THE OPTIONAL MODS THAT USE TEXTURES:
+You need to download adapted/comicified versions of the mods listed here, that use textures:
 
-You need to download comicified versions of the optional mods' textures that are listed here on this very page if you want to use the optional mods (that use textures): 
-
-[download optional comicified textures] - google drive.
+[download adapted/comicified textures for mods] - google drive.
 
 
-OPTIONAL RECOMMENDED MODS (THAT USE COMICIFIED TEXTURES) - FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™.
+RECOMMENDED MODS (THAT USE COMICIFIED TEXTURES) - FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™.
 
 all of mods that use textures listed below need to go in gtasa/modloader/proper comic hd stuff/ folder. skip replacing/overwriting (don't replace the files already in proper comic hd stuff folder).
 
