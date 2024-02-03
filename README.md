@@ -58,7 +58,7 @@ all of mods that use textures listed below need to go in gtasa/modloader/proper 
 
 [proper hd models](https://www.mixmods.com.br/2022/10/sa-proper-hd-models/).
 
-[next gen weapons ezekiel](https://www.mixmods.com.br/2021/05/nextgen-remaster-weapons-pack-de-armas-em-hd/).
+[next gen remaster weapons ezekiel](https://www.mixmods.com.br/2021/05/nextgen-remaster-weapons-pack-de-armas-em-hd/) - some weapons already inside nextgen remaster weapons comicified folder were created by me (Zen's GTA SA Weapons/Pickups Remake) and ArtemQa146 ("weapon details" creator - the cleos for my weapons).
 
 [Shamal Remastered](https://www.mixmods.com.br/2019/12/gtasaar-shamal-remastered-hd/).
 
