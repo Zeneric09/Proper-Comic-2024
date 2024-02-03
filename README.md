@@ -1,7 +1,9 @@
 
 All txds/images from this mod list were tainted with comic look by Zeneric. Includes QoL and game altering mods by varies of people (see modlist here).
+
 Purpose? To have a Proper GTA SA Comical 2024 Experience™.
-(provide modloader ini)
+
+(provide modloader ini).
 
 
 Download GTA SA Proper Comic 2024:
@@ -10,16 +12,21 @@ Download GTA SA Proper Comic 2024:
 
 You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/).
 
+
 credits/links of improved GTA SA vanilla textures:
 
 [ROSA](https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/).
+
 [Proper Vehicles Retex 2k](https://www.mixmods.com.br/2022/04/sa-sade-proper-vehicles-retex/).
+
 [Proper Player Retex](https://www.mixmods.com.br/2022/04/proper-player-retex/).
+
 [Proper Characters Retex](https://www.mixmods.com.br/2022/07/sa-proper-characters-retex-hd-peds-remaster/).
+
 
 REQUIRED FOR OPTIONAL MODS THAT USE TEXTURES:
 
-You need to download comicified versions of the optional mods that are listed here on this very page that use textures, here: 
+You need to download comicified versions for the optional mods that are listed here on this very page that use textures, here: 
 
 [download optional comicified textures] - google drive - overwrite/replace all.
 
