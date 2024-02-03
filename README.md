@@ -54,7 +54,7 @@ all of mods that use textures listed below need to go in gtasa/modloader/proper 
 
 [the birds update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/).
 
-[project props 2.2](https://www.mixmods.com.br/2021/10/project-props-v2-2-mais-objetos-no-mapa/) + [fixes from mixmods server](https://www.mixmods.com.br/2021/01/discord-mixmods/) - uncomment "#" from the weed line inside gtadat.txt to use optional weed. delete procobj.dat.
+[project props 2.2](https://www.mixmods.com.br/2021/10/project-props-v2-2-mais-objetos-no-mapa/) + [fixes from mixmods server](https://www.mixmods.com.br/2021/01/discord-mixmods/) - uncomment "#" from the weed line inside gtadat.txt to use optional weed. delete procobj.dat. install project props only (don't install ola and the optional ones inlcluded).
 
 [proper hd models](https://www.mixmods.com.br/2022/10/sa-proper-hd-models/).
 
