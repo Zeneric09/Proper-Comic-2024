@@ -212,7 +212,7 @@ e2001's male player animations ([download from mixmods discord server](https://w
 
 [collision tweaker](https://www.mixmods.com.br/2017/02/collision-tweaker-editar-reacao-de-colisao-em-veiculos/).
 
-[fair cop/cop fix](https://www.mixmods.com.br/2020/10/fair-police-v2-0-2-policiais-atacam-pedestres/).
+[fair cop/cop fix](https://www.mixmods.com.br/2020/10/fair-police-v2-0-2-policiais-atacam-pedestres/) - delete peds.ide
 
 [cops drive by](https://www.mixmods.com.br/2018/07/copsdriveby-policiais-atirando-do-carro/).
 
