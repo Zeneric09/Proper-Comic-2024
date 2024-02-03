@@ -39,7 +39,7 @@ You need to download adapted/comicified versions of the mods listed here, that u
 
 REQUIRED MODS (THAT USE COMICIFIED TEXTURES) - FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™:
 
-all of mods that use textures listed below need to go in gtasa/modloader/proper comic hd stuff/ folder. skip replacing/overwriting (don't replace the files already in proper comic hd stuff folder).
+all of mods that use textures listed below need to go in gtasa/modloader/proper comic hd stuff/ folder, sharing same folder names. skip replacing/overwriting (don't replace the files already in proper comic hd stuff folder).
 
 [vending machines remastered](https://www.mixmods.com.br/2019/09/vending-machines-remastered-maquinas-de-venda-em-hd/).
 
