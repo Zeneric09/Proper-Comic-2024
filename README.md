@@ -177,8 +177,6 @@ e2001's male player animations ([download from mixmods discord server](https://w
 
 [hospital health pickups](https://www.mixmods.com.br/2021/10/hospital-health-pickups-pickup-de-saude-nos-hospitais/)
 
-[animation fix + mk3 new car animations](https://www.mixmods.com.br/2022/02/animation-fix-v1-5-corrigir-bugs-de-animacoes/)
-
 [illuminated vinewood sign](https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/)
 
 [separated hands cutscene chars](https://www.mixmods.com.br/2015/07/personagens-de-cutscene-com-dedos-separados-mobile/)
