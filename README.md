@@ -1,11 +1,7 @@
 
-All txds/images from this mod list were tainted with comic look by Zeneric. Includes QoL and game altering mods by varies of people (see modlist here).
+All txds/images from the mods listed here including ROSA etc were tainted with comic look by Zeneric. Includes QoL and game altering mods by varies of people.
 
 Purpose? To have a Proper GTA SA Comical 2024 Experience™.
-
-(provide modloader ini).
-
-
 
 Download GTA SA Proper Comic 2024:
 
@@ -13,8 +9,9 @@ Download GTA SA Proper Comic 2024:
 
 You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/).
 
+(provide modloader ini).
 
-credits/links of improved GTA SA vanilla textures:
+credits/links of improved GTA SA vanilla textures I tainted with comic look:
 
 [ROSA](https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/).
 
