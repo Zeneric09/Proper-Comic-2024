@@ -50,11 +50,11 @@ all of mods that use textures listed below need to go in gtasa/modloader/proper 
 
 [project lumos](https://www.mixmods.com.br/2022/11/sa-project-lumos/).
 
-[sidewalk weeds](https://www.mixmods.com.br/2022/06/sa-sidewalk-weeds-grass-proc/).
+[sidewalk weeds](https://www.mixmods.com.br/2022/06/sa-sidewalk-weeds-grass-proc/) - delete procobj.dat and surfinfo.dat.
 
 [the birds update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/).
 
-[project props 2.2](https://www.mixmods.com.br/2021/10/project-props-v2-2-mais-objetos-no-mapa/) + [fixes from mixmods server](https://www.mixmods.com.br/2021/01/discord-mixmods/) - uncomment "#" from the weed line inside projectprops.ini to use optional weed.
+[project props 2.2](https://www.mixmods.com.br/2021/10/project-props-v2-2-mais-objetos-no-mapa/) + [fixes from mixmods server](https://www.mixmods.com.br/2021/01/discord-mixmods/) - uncomment "#" from the weed line inside projectprops.ini to use optional weed. delete procobj.dat.
 
 [proper hd models](https://www.mixmods.com.br/2022/10/sa-proper-hd-models/).
 
