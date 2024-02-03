@@ -88,8 +88,6 @@ all of mods that use textures listed below need to go in gtasa/modloader/proper 
 
 [NRG500 Remastered](https://www.mixmods.com.br/2019/10/nrg-500-remastered-hd-by-ezekiel/).
 
-[Original HD Radar](https://www.mixmods.com.br/2022/07/proper-radar/).
-
 [PCJ600 Remastered](https://www.mixmods.com.br/2020/05/pcj600-remastered-hd/).
 
 [Rust Oceanic and Hustler](https://www.mixmods.com.br/2021/04/rust-oceanic-and-hustler-carros-abandonados-em-hd/).
