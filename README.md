@@ -9,10 +9,13 @@ Download GTA SA Proper Comic 2024:
 
 You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/).
 
-and this: [sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/), delete III.VC.SA.WindowedMode.asi and III.VC.SA.WindowedMode.ini (installed with shells mod causes crashes), and [replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
+and this: [Reshade](https://reshade.me/) and [download/use this reshade comic preset](https://pastebin.com/4qZic6cr).
 
-also this: [Reshade](https://reshade.me/) and [download/use this reshade comic preset](https://pastebin.com/4qZic6cr).
+also this: [sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) - delete III.VC.SA.WindowedMode.asi and III.VC.SA.WindowedMode.ini (installed with shells mod causes crashes), and replace widescreenfix and silent patch with links provided below, and [replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
 
+[widescreen fix](https://thirteenag.github.io/wfp#gtasa) - replace sa essential pack's widescreen fix and delete the sa essential pack's HOR + script.
+
+[silent patch](https://cookieplmonster.github.io/mods/gta-sa/#silentpatch) - replace sa essential pack's silent patch and enable directional sun inside its ini.
 
 all of the mods listed here go in modloader folder unless stated differently.
 
@@ -28,13 +31,13 @@ credits/links of improved GTA SA vanilla textures I tainted with comic look (DON
 
 [Proper Vegetation Retex](https://www.mixmods.com.br/2021/07/proper-vegetation-retex-vegetacao-com-texturas-hd/).
 
+[Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/).
 
 You need to download adapted/comicified versions of the mods listed here, that use textures:
 
 [download adapted/comicified textures for mods] - google drive.
 
-
-REQUIRED MODS (THAT USE COMICIFIED TEXTURES) - FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™.
+REQUIRED MODS (THAT USE COMICIFIED TEXTURES) - FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™:
 
 all of mods that use textures listed below need to go in gtasa/modloader/proper comic hd stuff/ folder. skip replacing/overwriting (don't replace the files already in proper comic hd stuff folder).
 
@@ -95,7 +98,7 @@ all of mods that use textures listed below need to go in gtasa/modloader/proper 
 [Walter's Brown Streak](https://www.mixmods.com.br/2019/05/walters-brown-streak-trem-remasterizado-em-hd/).
 
 
-REQUIRED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™.
+REQUIRED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™:
 
 [Proper PS2 Vehicles - download from mixmods discord server](https://www.mixmods.com.br/2021/01/discord-mixmods/).
 
@@ -142,10 +145,6 @@ REQUIRED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA SA COMICAL 2
 [24 hours real linear graphics timecyc](https://www.mixmods.com.br/2022/07/real-linear-graphics/).
 
 [24 hrs asi](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/).
-
-[widescreen fix](https://thirteenag.github.io/wfp#gtasa) - replace sa essential pack's widescreen fix and delete the pack's HOR + script.
-
-[silent patch](https://cookieplmonster.github.io/mods/gta-sa/#silentpatch) - replace sa essential pack's silent patch and enable directional sun inside its ini.
 
 [effectloader](https://www.mixmods.com.br/2017/04/effects-loader-instalar-efeitos-sem-substituir-arquivos/).
 
