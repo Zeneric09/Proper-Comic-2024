@@ -11,6 +11,9 @@ You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-pr
 
 and this: [sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) and [replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
 
+also this: [Reshade](https://reshade.me/) and [download/use this reshade comic preset](https://pastebin.com/4qZic6cr).
+
+
 all of the mods listed here go in modloader folder unless stated differently.
 
 credits/links of improved GTA SA vanilla textures I tainted with comic look (DON'T DOWNLOAD THESE - THEY'RE HERE FOR CREDITS):
@@ -36,6 +39,10 @@ You need to download comicified versions of the optional mods' textures that are
 OPTIONAL RECOMMENDED MODS (THAT USE COMICIFIED TEXTURES) - FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™.
 
 all of mods that use textures listed below need to go in gtasa/modloader/proper comic hd stuff/ folder. skip replacing/overwriting (don't replace the textures already in proper comic hd stuff folder).
+
+[vending machines remastered](https://www.mixmods.com.br/2019/09/vending-machines-remastered-maquinas-de-venda-em-hd/).
+
+[Santa Maria Pier Extended](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/).
 
 [enhance particle txd](https://www.mixmods.com.br/2016/03/enhance-particletxd/).
 
