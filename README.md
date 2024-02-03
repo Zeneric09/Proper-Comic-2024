@@ -9,11 +9,11 @@ Download GTA SA Proper Comic 2024:
 
 You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/).
 
+and this: [sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) - replace widescreen fix and silent patch and delete HOR +. see next two links/lines below. [replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
+
 all of the mods listed here go in modloader folder unless stated differently.
 
-copy/paste this ini into your modloader.ini (
-
-credits/links of improved GTA SA vanilla textures I tainted with comic look:
+credits/links of improved GTA SA vanilla textures I tainted with comic look (DON'T DOWNLOAD THESE - THEY'RE HERE FOR CREDITS):
 
 [ROSA](https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/).
 
@@ -34,6 +34,8 @@ You need to download comicified versions of the optional mods' textures that are
 
 
 OPTIONAL RECOMMENDED MODS (THAT USE COMICIFIED TEXTURES) - FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™.
+
+all of mods that use textures listed below need to go in gtasa/modloader/proper comic hd stuff/ folder. skip replacing/overwriting (don't replace the textures already in proper comic hd stuff folder).
 
 [enhance particle txd](https://www.mixmods.com.br/2016/03/enhance-particletxd/).
 
@@ -94,8 +96,6 @@ OPTIONAL RECOMMENDED MODS (THAT USE COMICIFIED TEXTURES) - FOR A PROPER GTA SA C
 [Zen's GTA SA Weapons/Pick ups Remake - download from mixmods discord server](https://www.mixmods.com.br/2021/01/discord-mixmods/).
 
 
-
-
 OPTIONAL RECOMMENDED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™.:
 
 [Proper PS2 Vehicles - download from mixmods discord server](https://www.mixmods.com.br/2021/01/discord-mixmods/).
@@ -145,8 +145,6 @@ OPTIONAL RECOMMENDED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA 
 [24 hours real linear graphics timecyc](https://www.mixmods.com.br/2022/07/real-linear-graphics/).
 
 [24 hrs asi](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/).
-
-[sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) - replace widescreen fix and silent patch and delete HOR +. see next two links/lines below.
 
 [widescreen fix](https://thirteenag.github.io/wfp#gtasa) - replace sa essential pack's widescreen fix and delete the pack's HOR + script.
 
