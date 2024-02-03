@@ -1,11 +1,50 @@
 
-All txds/images from this mod list were tainted with comic look by Zeneric, including QoL and game altering mods, by varies of people (see modlist for links/credits) for a proper GTA SA Comical 2024 Experience.
+All txds/images from this mod list were tainted with comic look by Zeneric. Includes QoL and game altering mods by varies of people (see modlist here).
+Purpose? To have a Proper GTA SA Comical 2024 Experience™.
+(provide modloader ini)
 
-[next gen weapons ezekiel](https://www.mixmods.com.br/2021/05/nextgen-remaster-weapons-pack-de-armas-em-hd/).
+
+Download GTA SA Proper Comic 2024:
+
+[GTA SA Proper Comic 2024] - google drive.
+
+You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/).
+
+credits/links of improved GTA SA vanilla textures:
+
+[ROSA](https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/).
+[Proper Vehicles Retex 2k](https://www.mixmods.com.br/2022/04/sa-sade-proper-vehicles-retex/).
+[Proper Player Retex](https://www.mixmods.com.br/2022/04/proper-player-retex/).
+[Proper Characters Retex](https://www.mixmods.com.br/2022/07/sa-proper-characters-retex-hd-peds-remaster/).
+
+REQUIRED FOR OPTIONAL MODS THAT USE TEXTURES:
+
+You need to download comicified versions of the optional mods that are listed here on this very page that use textures, here: 
+
+[download optional comicified textures] - google drive - overwrite/replace all.
+
+
+OPTIONAL RECOMMENDED MODS (THAT USE COMICIFIED TEXTURES) - FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™.
+
+[enhance particle txd](https://www.mixmods.com.br/2016/03/enhance-particletxd/) - ini - particle.txd comicified.
+
+[flying stuff](https://www.mixmods.com.br/2020/02/flying-stuff-folhas-etc-caindo-pela-tela/) - comicified.
+
+[project lumos](https://www.mixmods.com.br/2022/11/sa-project-lumos/) - comicified.
+
+[sidewalk weeds](https://www.mixmods.com.br/2022/06/sa-sidewalk-weeds-grass-proc/) - comicified.
+
+[the birds update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/) - comicified.
+
+[project props 2.2](https://www.mixmods.com.br/2021/10/project-props-v2-2-mais-objetos-no-mapa/) + optional weed + fixes from mixmods server - comicified.
+
+[next gen weapons ezekiel](https://www.mixmods.com.br/2021/05/nextgen-remaster-weapons-pack-de-armas-em-hd/) - comicified (stuff removed - mixed with zen weapons).
+
+
+
+OPTIONAL RECOMMENDED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™.:
 
 [skygfx extended + mobile details hd](https://www.mixmods.com.br/2022/11/sa-skygfx/) - ini - root folder.
-
-[enhance particle txd](https://www.mixmods.com.br/2016/03/enhance-particletxd/) - ini.
 
 [toonfx](https://www.mixmods.com.br/2017/12/toon-fx-efeitos-cartoon/)  - root folder.
 
@@ -17,55 +56,41 @@ All txds/images from this mod list were tainted with comic look by Zeneric, incl
 
 [graphics tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - ini.
 
-[story mode 2.0](https://www.mixmods.com.br/2022/11/story-mode/).
+[story mode 2.0](https://www.mixmods.com.br/2022/11/story-mode/) - some stuff removed.
 
 [rain extinguish fire](https://www.mixmods.com.br/2021/10/rain-extinguish-fire-chuva-apaga-o-fogo/).
 
-[project props 2.2](https://www.mixmods.com.br/2021/10/project-props-v2-2-mais-objetos-no-mapa/) + optional.
-
 [reshade](https://reshade.me/) - google drive.
 
-[modelextras](https://github.com/user-grinch/ModelExtras) (for zen weapons and weapon details weapons - replace ezekiel weapons)
+[modelextras](https://github.com/user-grinch/ModelExtras) 
 
 [weapon details](https://libertycity.net/files/gta-san-andreas/200595-weapon-details-v1-3.html).
 
-[ezekiel's real sky boxes](https://www.youtube.com/watch?v=-Dl6YYUEyPw&t=5s) mixed with [crowdigger's](https://www.mixmods.com.br/2020/08/real-skybox-skyboxes-by-crowdigger-novos-ceus-hd/) - ini.
+[ezekiel's real sky boxes](https://www.youtube.com/watch?v=-Dl6YYUEyPw&t=5s) - ini.
 
-ps2 timecyc (timecycp.dat changed to timecyc then converted to 24 hrs timecyc) - configured together with skygfx
+[24 hours real linear graphics timecyc](https://www.mixmods.com.br/2022/07/real-linear-graphics/).
 
-[24 hrs asi](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/)
+[24 hrs asi](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/).
 
 [sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) (replace widescreen fix and silent patch and delete HOR +. enable directional sun in silent patch.)
 
 [widescreen fix](https://thirteenag.github.io/wfp#gtasa).
 
-[silent patch](https://cookieplmonster.github.io/mods/gta-sa/#silentpatch).
+[silent patch](https://cookieplmonster.github.io/mods/gta-sa/#silentpatch) - enable directional sun.
 
 [effectloader](https://www.mixmods.com.br/2017/04/effects-loader-instalar-efeitos-sem-substituir-arquivos/).
 
 [imvehft and imvehft fix](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/).
 
-[90s avp reborn 3](https://www.mixmods.com.br/2020/04/90s-atmosphere-vehicles-pack-reborn-3/).
-
-e2001's male player animations ([download on mixmods discord server](https://www.mixmods.com.br/2021/01/discord-mixmods/)).
+e2001's male player animations ([download on mixmods discord server](https://www.mixmods.com.br/2021/01/discord-mixmods/)) - remove peds.ifp for zen weapons(jetpack).
 
 [mobile font fixed](https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida/).
 
-[mixsets](https://github.com/m0b-x/SA-MixSets) - ini.
-
 [ped spec](https://www.mixmods.com.br/2015/02/ped-spec-iluminacao-specular-nas-pessoas-como-no-mobile/) - ini.
 
-[improved fastloader](https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012/).
+[improved fastloader](https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012/) - ini.
 
 [mobile hands](https://www.mixmods.com.br/2021/03/mobile-xbox-hands-maos-com-dedos-separados/).
-
-proper packs (rosa, vehicles 2k, player.img, fixes, etc).
-
-shadows fixes - [join mixmods discord server to download it](https://www.mixmods.com.br/2021/01/discord-mixmods/).
-
-[shadow map](https://www.mixmods.com.br/2016/09/gta-sa-map-shadows-mais-sombras/)
-
-[toonfx](https://www.mixmods.com.br/2017/12/toon-fx-efeitos-cartoon/) - root folder.
 
 [vehicle immunities](https://www.mixmods.com.br/2016/02/vehicle-immunities-corrigir-trailers-explodindo-e-mais/)
 
@@ -81,164 +106,146 @@ shadows fixes - [join mixmods discord server to download it](https://www.mixmods
 
 [vehfuncs](https://www.mixmods.com.br/2023/01/sa-vehfuncs/).
 
-hospital health pickups
+[hospital health pickups](https://www.mixmods.com.br/2021/10/hospital-health-pickups-pickup-de-saude-nos-hospitais/)
 
-animation fix + mk3 new car animations
+[animation fix + mk3 new car animations](https://www.mixmods.com.br/2022/02/animation-fix-v1-5-corrigir-bugs-de-animacoes/)
 
-flying stuff
+[illuminated vinewood sign](https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/)
 
-illuminated vinewood sign
+[separated hands cutscene chars](https://www.mixmods.com.br/2015/07/personagens-de-cutscene-com-dedos-separados-mobile/)
 
-separated hands cutscene chars
+[project immerse yourself](https://www.mixmods.com.br/2022/01/project-immerse-yourself-prelight-melhorado/)
 
-project lumos
+[uncompressed sfx pack](https://www.mixmods.com.br/2020/07/uncompressed-sfx-pack-sons-originais-em-hd/).
 
-project immerse yourself
+[aim sensibility](https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/) - tweak this ini yourself with note pad editor.
 
-sidewalk weeds
+[ambient taxi](https://www.mixmods.com.br/2017/12/ambient-taxi-taxi-pegando-passageiros/).
 
-the birds update
+[anim train](https://www.mixmods.com.br/2015/10/anim-train-rodas-dos-trens-girando-v1-1/).
 
-uncompressed sfx pack
+[body stats fix](https://www.mixmods.com.br/2022/07/sa-body-stats-fix-in-interiors/).
 
-aimsensibility
+[bullet holes](https://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros/).
 
-ambient taxi
+[buy property](https://www.mixmods.com.br/2022/06/buy-property-mod-comprar-propriedades/).
 
-anim train
+[car crash inertia](https://www.mixmods.com.br/2020/10/car-crash-inertia-v1-1-2-ser-jogado-do-para-brisa/).
 
-body stats fix
+[car crash look](https://www.mixmods.com.br/2019/04/car-crash-look-pedestres-olharem-ao-bater-o-carro/).
 
-bullet holes
+[car dealership](https://www.mixmods.com.br/2020/06/car-dealership-concessionaria-de-carros/).
 
-buy property
+[car crash anim](https://www.mixmods.com.br/2014/06/car-crash-anim-ir-pra-frente-quando-bater/).
 
-car crash inertia
+[cars on dirt roads](https://www.mixmods.com.br/2022/09/sa-cars-on-dirt-roads-mod/).
 
-car crash look
+[chainsaw ammo fuel](https://www.mixmods.com.br/2022/04/chainsaw-ammo-fuel/).
 
-car dealership
+[chainsaw panic](https://www.mixmods.com.br/2017/12/chainsaw-panic-se-assustar-com-motosserra/).
 
-car crash anim
+[clever trams](https://www.mixmods.com.br/2020/01/clever-trams-bondes-mais-inteligentes/).
 
-car impact
+[collision tweaker](https://www.mixmods.com.br/2017/02/collision-tweaker-editar-reacao-de-colisao-em-veiculos/).
 
-cars on dirt roads
+[fair cop/cop fix](https://www.mixmods.com.br/2020/10/fair-police-v2-0-2-policiais-atacam-pedestres/).
 
-chainsaw ammo fuel
+[cops drive by](https://www.mixmods.com.br/2018/07/copsdriveby-policiais-atirando-do-carro/).
 
-chainsaw panic
+[death in car](https://www.mixmods.com.br/2022/06/death-in-car-morrer-dentro-do-carro/).
 
-clever trams
+[destructive rhino](https://www.mixmods.com.br/2022/08/sa-destructive-rhino-mod/).
 
-collision tweaker
+[dynamic tram signs](https://www.mixmods.com.br/2017/06/dynamic-tram-signs-corrigir-variacao-da-placa-do-bonde/).
 
-cop fix
+[faster clothes change](https://www.mixmods.com.br/2020/08/faster-clothes-changes-trocar-de-roupa-rapidamente/).
 
-cops drive by
+[fireman fireproof fix](https://www.mixmods.com.br/2020/02/vc-sa-fireman-fireproof-fix-bombeiros-resistentes-ao-fogo/).
 
-death in car
+[gang rider](https://www.mixmods.com.br/2020/08/gang-rider-v2-carregar-mais-gangue/).
 
-destructive rhino
+[heli fix](https://www.mixmods.com.br/2021/10/helifix-piloto-nos-helicopteros/).
 
-dynamic tram signs
+[homeless and trash bags](https://www.mixmods.com.br/2020/05/homeless-and-trash-bags-mendigos-mexendo-em-sacos-de-lixo/).
 
-fair  cop
+[improved streaming](https://www.mixmods.com.br/2022/04/improved-streaming/) - ini.
 
-faster clothes change
+[improved surface physics](https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/).
 
-fireman fireproof fix
+[improved move](https://www.mixmods.com.br/2021/08/improvedmove/).
 
-gang rider
+[indievehicles](https://www.mixmods.com.br/2019/08/indievehicles/).
 
-heli fix
+[insects](https://www.mixmods.com.br/2022/08/insects-mod/).
 
-homeless and trash bags
+[lamppost insects](https://www.mixmods.com.br/2015/09/lamppost-insects-insetos-nas-luzes-dos-postes/).
 
-improved streaming
+[low mass peds](https://www.mixmods.com.br/2019/03/low-mass-peds-menos-impacto-ao-atropelar-pessoas/).
 
-improved surface physics
+[manual driveby remake](https://www.mixmods.com.br/2021/10/manual-driveby-remake-fixed-mirar-de-dentro-do-carro/).
 
-improved move
+[manual firing](https://www.mixmods.com.br/2022/05/manual-firing-tiros-manuais/).
 
-indievehicles
+[mesh smoothed pack](https://www.mixmods.com.br/2021/05/mesh-smoothed-pack-objetos-mais-redondos/)
 
-insects
+[meshsmooth pack by hysen](https://www.mixmods.com.br/2022/07/sa-meshsmooth-pack-by-hysen/).
 
-lamppost insects
+[missile by ryosuke839](https://www.mixmods.com.br/2022/06/sa-missile-by-ryosuke839-misseis-melhorados/).
 
-low mass peds
+[missing smokes fix](https://www.mixmods.com.br/2022/05/missing-smokes-fix/).
 
-manual driveby  remake
+[no 100% advantage fix](https://www.mixmods.com.br/2016/08/no-100-advantages-remover-beneficios-do-100/).
 
-manual firing
+[oil leaking](https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/).
 
-mesh smoothed pack
+[open door anim](https://www.mixmods.com.br/2021/04/open-door-anim-v1-2-1-animacao-abrindo-porta/).
 
-meshsmooth pack by hysen
+[ped fear fix](https://www.mixmods.com.br/2020/10/ped-fear-fix-v2-0-2-peds-se-assustam-com-armas-e-mais/).
 
-missile by ryosuke839
+[ped fire fix](https://www.mixmods.com.br/2018/10/ped-fire-fix-v1-1-corrigir-pedestres-pegando-fogo/).
 
-missing smokes fix
+[peds do objects on map](https://www.mixmods.com.br/2017/05/pedestres-usando-objetos-do-mapa/).
 
-no 100% advantage fix
+[peds bleeding](https://www.mixmods.com.br/2020/03/peds-bleeding-sangrar-com-saude-baixa/).
 
-oil leaking
+[peds buy food](https://www.mixmods.com.br/2020/07/peds-buy-food-pedestres-compram-comida/).
 
-open door anim
+[pedskills](https://www.mixmods.com.br/2022/08/pedskills/) ini.
 
-ped fear fix
+[player move head](https://www.mixmods.com.br/2020/09/player-move-head-mover-a-cabeca-pra-onde-apontar/).
 
-ped fire fix
+[ragdoll bullet physics](https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/) ini.
 
-peds do  objects on map
+[rain audio fix](https://www.mixmods.com.br/2019/07/rain-audio-fix-novos-sons-para-chuva/).
 
-peds bleeding
+[re combat improvement](https://gtaforums.com/topic/925699-sa-combat-improvement/).
 
-peds buy food
+[real traffic fix](https://www.mixmods.com.br/2022/04/real-traffic-fix/).
 
-peds extender
+[realistic population](https://www.mixmods.com.br/2021/11/sa-sade-realistic-population-more-peds-popcycle-dat/).
 
-pedskills
+[rusty brown  ring donuts overhaul](https://www.mixmods.com.br/2020/02/rusty-browns-ring-donuts-overhaul-loja-de-donuts/).
 
-carhit
+[saas standard update](https://www.mixmods.com.br/2018/07/saas-san-andreas-ambient-sounds/).
 
-player move head
+[shells - avoid windowed mode (causes crashes)](https://www.mixmods.com.br/2015/06/mod-shell-capsulas-de-bala-fix/).
 
-ragdoll bullet physics
+[shoreline waves](https://www.mixmods.com.br/2020/03/shoreline-waves-efeito-de-ondas/).
 
-rain audio fix
+[shot cam shake](https://www.mixmods.com.br/2018/12/shot-cam-shake-tremer-tela-enquanto-atira/) - ini.
 
-re combat improvement
+[sky grad](https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/).
 
-real traffic fix
+[spread fix](https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-dos-tiros/).
 
-realistic populationn
+[tank fire](https://www.mixmods.com.br/2017/07/tank-fire-rhino-atirando-em-voce/).
 
-less money
+[throw rotate fix](https://www.mixmods.com.br/2022/08/throw-rotate-fix-molotov-granada-rodando-no-ar/).
 
-rusty brown  ring donuts overhaul
+[thunder mod](https://www.mixmods.com.br/2022/07/thunder-mod-cleo/).
 
-saas standard update
+[tram driver](https://www.mixmods.com.br/2019/02/tram-driver-dirigir-bonde/).
 
-shells
+[trucks & trailers](https://www.mixmods.com.br/2016/07/trucks-trailers-reboques-avioes-etc/) - classic.
 
-shoreline waves
-
-shot cam shake
-
-sky grad
-
-spread fix
-
-tank fire
-
-throw rotate f ix
-
-thunder mod
-
-tram driver
-
-trucks trailers
-
-truck trailer
+[truck trailer](https://www.mixmods.com.br/2020/09/truck-trailer-by-kenking-caminhoes-com-reboque/).
