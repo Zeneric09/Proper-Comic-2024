@@ -286,8 +286,6 @@ e2001's male player animations ([download from mixmods discord server](https://w
 
 [rusty brown  ring donuts overhaul](https://www.mixmods.com.br/2020/02/rusty-browns-ring-donuts-overhaul-loja-de-donuts/).
 
-[saas standard update](https://www.mixmods.com.br/2018/07/saas-san-andreas-ambient-sounds/).
-
 [shoreline waves](https://www.mixmods.com.br/2020/03/shoreline-waves-efeito-de-ondas/) - put models folder in root folder and shoreline waves folder in modloader.
 
 [shot cam shake](https://www.mixmods.com.br/2018/12/shot-cam-shake-tremer-tela-enquanto-atira/) - [tweaked ini](https://pastebin.com/KMUgdJVp).
