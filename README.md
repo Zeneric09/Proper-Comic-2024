@@ -300,7 +300,7 @@ e2001's male player animations ([download from mixmods discord server](https://w
 
 [throw rotate fix](https://www.mixmods.com.br/2022/08/throw-rotate-fix-molotov-granada-rodando-no-ar/).
 
-[thunder mod](https://www.mixmods.com.br/2022/07/thunder-mod-cleo/).
+[thunder mod](https://www.mixmods.com.br/2022/07/thunder-mod-cleo/) - put in root folder.
 
 [tram driver](https://www.mixmods.com.br/2019/02/tram-driver-dirigir-bonde/).
 
