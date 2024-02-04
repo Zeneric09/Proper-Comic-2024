@@ -17,8 +17,6 @@ also this: [sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-
 
 [silent patch](https://cookieplmonster.github.io/mods/gta-sa/#silentpatch) - replace sa essential pack's silent patch and enable directional sun inside its ini.
 
-all of the mods listed here go in modloader folder unless stated differently.
-
 credits/links of improved GTA SA vanilla textures I tainted with comic look (DON'T DOWNLOAD THESE - THEY'RE HERE FOR CREDITS):
 
 [ROSA](https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/).
@@ -96,7 +94,8 @@ all of mods that use textures listed below need to go in gtasa/modloader/proper 
 [Walter's Brown Streak](https://www.mixmods.com.br/2019/05/walters-brown-streak-trem-remasterizado-em-hd/).
 
 
-REQUIRED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™:
+REQUIRED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™.
+all of the mods listed here go in modloader folder unless stated differently.
 
 [Proper PS2 Vehicles - download from mixmods discord server](https://www.mixmods.com.br/2021/01/discord-mixmods/).
 
