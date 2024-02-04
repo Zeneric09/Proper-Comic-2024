@@ -71,8 +71,6 @@ all of mods that use textures listed below need to go in gtasa/modloader/proper 
 
 [HD Underwater](https://www.mixmods.com.br/2022/06/sa-hd-underwater/).
 
-[bullet holes](https://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros/) - may not work in new game (need to save and reload).
-
 [Improved Dumpsters](https://www.mixmods.com.br/2021/08/improved-dumpsters-lixeiras-remasterizadas-em-hd/).
 
 [Improved Food Carts](https://www.mixmods.com.br/2021/09/improved-food-carts-barraquinhas-de-comida-em-hd/).
