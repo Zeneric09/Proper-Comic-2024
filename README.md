@@ -11,7 +11,7 @@ You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-pr
 
 and this: [Reshade](https://reshade.me/) and [download/use this reshade comic preset](https://pastebin.com/4qZic6cr).
 
-also this: [sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) - put in root folder. delete III.VC.SA.WindowedMode.asi and III.VC.SA.WindowedMode.ini (installed with shells mod causes crashes), and replace widescreenfix and silent patch with links provided below, and [replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
+also this: [sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) - put in root folder. replace widescreenfix and silent patch with links provided below, and [replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
 
 [widescreen fix](https://thirteenag.github.io/wfp#gtasa) - replace sa essential pack's widescreen fix and delete the sa essential pack's HOR + script.
 
@@ -53,7 +53,7 @@ all of mods that use textures listed below need to go in gtasa/modloader/proper 
 
 [the birds update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/).
 
-[project props 2.2](https://www.mixmods.com.br/2021/10/project-props-v2-2-mais-objetos-no-mapa/) + [fixes from mixmods server](https://www.mixmods.com.br/2021/01/discord-mixmods/) - uncomment "#" from the weed line inside gtadat.txt to use optional weed. delete procobj.dat. install project props only (don't install ola and the optional ones inlcluded).
+[project props 2.2](https://www.mixmods.com.br/2021/10/project-props-v2-2-mais-objetos-no-mapa/) + [fixes from mixmods server](https://www.mixmods.com.br/2021/01/discord-mixmods/) - uncomment "#" from the weed line inside gtadat.txt to use optional weed. delete procobj.dat. install project props and surfinfo.dat (don't install ola included).
 
 [proper hd models](https://www.mixmods.com.br/2022/10/sa-proper-hd-models/).
 
@@ -289,8 +289,6 @@ e2001's male player animations ([download from mixmods discord server](https://w
 [rusty brown  ring donuts overhaul](https://www.mixmods.com.br/2020/02/rusty-browns-ring-donuts-overhaul-loja-de-donuts/).
 
 [saas standard update](https://www.mixmods.com.br/2018/07/saas-san-andreas-ambient-sounds/).
-
-[shells - avoid windowed mode (causes crashes)](https://www.mixmods.com.br/2015/06/mod-shell-capsulas-de-bala-fix/).
 
 [shoreline waves](https://www.mixmods.com.br/2020/03/shoreline-waves-efeito-de-ondas/) - put models folder in root folder and shoreline waves folder in modloader.
 
