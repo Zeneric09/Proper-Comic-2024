@@ -124,7 +124,7 @@ REQUIRED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA SA COMICAL 2
 
 [toonfx](https://www.mixmods.com.br/2017/12/toon-fx-efeitos-cartoon/)  - put in root folder.
 
-[mixsets](https://github.com/m0b-x/SA-MixSets/) - read instruction there for the gunflash fix.
+[mixsets](https://github.com/m0b-x/SA-MixSets/) - [tweaked ini](https://drive.google.com/file/d/16N-alAsOwI1XKADOf66yYV7Mn_ewa9Lz/view?usp=sharing).
 
 [urbanize](https://www.mixmods.com.br/2024/01/urbanize/) - put in root folder.
 
