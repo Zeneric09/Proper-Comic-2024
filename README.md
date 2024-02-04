@@ -7,7 +7,7 @@ Download GTA SA Proper Comic 2024:
 
 [GTA SA Proper Comic 2024] - google drive.
 
-You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/).
+You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/) - don't install the optional one.
 
 and this: [Reshade](https://reshade.me/) and [download/use this reshade comic preset](https://pastebin.com/4qZic6cr).
 
