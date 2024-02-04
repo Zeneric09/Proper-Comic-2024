@@ -95,6 +95,7 @@ all of mods that use textures listed below need to go in gtasa/modloader/proper 
 
 
 REQUIRED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™.
+
 all of the mods listed here go in modloader folder unless stated differently.
 
 [Proper PS2 Vehicles - download from mixmods discord server](https://www.mixmods.com.br/2021/01/discord-mixmods/).
