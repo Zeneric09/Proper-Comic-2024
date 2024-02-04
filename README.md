@@ -230,8 +230,6 @@ e2001's male player animations ([download from mixmods discord server](https://w
 
 [homeless and trash bags](https://www.mixmods.com.br/2020/05/homeless-and-trash-bags-mendigos-mexendo-em-sacos-de-lixo/).
 
-[improved streaming](https://www.mixmods.com.br/2022/04/improved-streaming/) - install "Oa" ini option.
-
 [improved surface physics](https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/).
 
 [enhance particle txd](https://www.mixmods.com.br/2016/03/enhance-particletxd/).
