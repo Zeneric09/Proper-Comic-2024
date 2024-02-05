@@ -31,6 +31,8 @@ credits/links of improved GTA SA vanilla textures I tainted with comic look (DON
 
 [Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/).
 
+[formal 2k grass textures hd](https://www.mixmods.com.br/2018/12/formal-2k-grass-textures-grama-hd/).
+
 You need to download adapted/comicified versions of the mods listed here, that use textures:
 
 [download adapted/comicified textures for mods] - google drive.
