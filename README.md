@@ -1,5 +1,5 @@
 
-All txds/images from the mods listed here including ROSA etc were tainted with comic look by Zeneric. Includes QoL and game altering mods by varies of people.
+All txds/images from the mods listed here including ROSA etc were tainted with comic look by Zeneric. Includes QoL and game altering mods by varies of modders.
 
 Purpose? To have a Proper GTA SA Comical 2024 Experience™.
 
