@@ -7,7 +7,7 @@ Download GTA SA Proper Comic 2024:
 
 [GTA SA Proper Comic 2024] - google drive.
 
-You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/) - don't install the optional one.
+You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/) - don't install the optional one, and delete plant1.dff and plants.dat.
 
 and this: [Reshade](https://reshade.me/) and [download/use this reshade comic preset](https://pastebin.com/4qZic6cr).
 
@@ -31,8 +31,6 @@ credits/links of improved GTA SA vanilla textures I tainted with comic look (DON
 
 [Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/).
 
-[formal 2k grass textures hd](https://www.mixmods.com.br/2018/12/formal-2k-grass-textures-grama-hd/).
-
 You need to download adapted/comicified versions of the mods listed here, that use textures:
 
 [download adapted/comicified textures for mods] - google drive.
@@ -40,6 +38,8 @@ You need to download adapted/comicified versions of the mods listed here, that u
 REQUIRED MODS (THAT USE COMICIFIED TEXTURES) - FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™:
 
 all of mods that use textures listed below need to go in gtasa/modloader/proper comic hd stuff/ folder, sharing same folder names. skip replacing/overwriting (don't replace the files already in proper comic hd stuff folder).
+
+[formal 2k grass textures hd](https://www.mixmods.com.br/2018/12/formal-2k-grass-textures-grama-hd/).
 
 [vending machines remastered](https://www.mixmods.com.br/2019/09/vending-machines-remastered-maquinas-de-venda-em-hd/).
 
