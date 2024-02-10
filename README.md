@@ -57,9 +57,11 @@ These mods go in modloader folder unless stated differently.
 
 [graphics tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - [tweaked ini](https://pastebin.com/6rrbuFXt).
 
-[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - put only RealSkyboxSA.asi in modloader\Proper Comic Adapted Stuff\Real Skybox\
+[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - put only RealSkyboxSA.asi in modloader\Proper Comic Adapted Stuff\Real Skybox\.
 
 [Intense Original Car Colours](https://www.gtainside.com/en/sanandreas/mods/114039-intense-original-car-colours/download/).
+
+[Proper PS2 Vehicles - download from mixmods discord server](https://www.mixmods.com.br/2021/01/discord-mixmods/).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -142,8 +144,6 @@ all of the mods that use textures listed below need to go in gtasa/modloader/pro
 OPTIONAL (but recommended) MODS THAT DON'T USE TEXTURES.
 
 all of the mods listed here go in modloader folder unless stated differently.
-
-[Proper PS2 Vehicles - download from mixmods discord server](https://www.mixmods.com.br/2021/01/discord-mixmods/).
 
 [Proper Night Windows](https://www.mixmods.com.br/2022/06/proper-night-windows/).
 
