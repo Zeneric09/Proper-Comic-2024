@@ -23,6 +23,10 @@ credits/links of improved GTA SA vanilla textures I tainted with comic look, inc
 
 [ezekiel's real sky boxes](https://www.youtube.com/watch?v=-Dl6YYUEyPw&t=5s).
 
+[Crowdigger's real sky boxes](https://www.mixmods.com.br/2020/08/real-skybox-skyboxes-by-crowdigger-novos-ceus-hd/).
+
+[Atmosphere Interface Pack HD](https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/).
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 REQUIRED/MANDATORY MODS FOR A PROPER COMIC 2024 EXPERIENCE:
@@ -104,8 +108,6 @@ all of the mods that use textures listed below need to go in gtasa/modloader/pro
 [next gen remaster weapons ezekiel](https://www.mixmods.com.br/2021/05/nextgen-remaster-weapons-pack-de-armas-em-hd/) - some weapons already inside nextgen remaster weapons comicified folder were created by me (Zen's GTA SA Weapons/Pickups Remake) and ArtemQa146 ("weapon details" creator - the cleos for my weapons).
 
 [Shamal Remastered](https://www.mixmods.com.br/2019/12/gtasaar-shamal-remastered-hd/).
-
-[Atmosphere Interface Pack HD](https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/).
 
 [HD Carl Home by Zeneric](https://www.mixmods.com.br/2022/08/sa-hd-carls-home-by-zeneric-casa-do-cj-remasterizada/).
 
