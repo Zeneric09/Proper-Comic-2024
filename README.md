@@ -85,7 +85,7 @@ delete gta-sa.exe in gta sa folder and rename "gta_sa.exe" (that came with SA es
 
 Optional (but recommended) hd texture mods that are TAINTED WITH PROPER COMIC:
 
-[download PROPER COMIC ADAPTED STUFF for the hd texture mods listed below here](google.com). put "proper comic adapted stuff" folder in gtasa\modloader\. can download wholly or individually.
+[download PROPER COMIC ADAPTED STUFF for the hd texture mods listed below here](google.com). put "proper comic adapted stuff" folder in gtasa\modloader\. unless stated differently. can download wholly or individually.
 
 all of the mods that use textures listed below need to go in gtasa/modloader/proper comic adapted stuff/ folder, sharing same folder names. skip replacing/overwriting (don't replace the files already in proper comic adapted stuff folder).
 
@@ -101,7 +101,7 @@ all of the mods that use textures listed below need to go in gtasa/modloader/pro
 
 [the birds update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/).
 
-[project props 2.2](https://www.mixmods.com.br/2021/10/project-props-v2-2-mais-objetos-no-mapa/) + [fixes from mixmods server](https://www.mixmods.com.br/2021/01/discord-mixmods/) - uncomment "#" from the weed line inside gtadat.txt to use optional weed. delete procobj.dat. install project props and surfinfo.dat (don't install ola included).
+[project props 2.2](https://www.mixmods.com.br/2021/10/project-props-v2-2-mais-objetos-no-mapa/) + [fixes from mixmods server](https://www.mixmods.com.br/2021/01/discord-mixmods/) - uncomment "#" from the weed line inside gtadat.txt to use optional weed. delete procobj.dat. install project props and surfinfo.dat (don't install ola included). This goes in modloader folder, not in proper comic adapted stuff folder.
 
 [proper hd models](https://www.mixmods.com.br/2022/10/sa-proper-hd-models/).
 
