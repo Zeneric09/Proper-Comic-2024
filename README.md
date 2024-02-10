@@ -27,6 +27,14 @@ credits/links of improved GTA SA vanilla textures I tainted with comic look, inc
 
 [Atmosphere Interface Pack HD](https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/).
 
+[NextGen Remaster Effects adapted to Effects Loader](https://forum.mixmods.com.br/f272-graphics-interface/t7774-sa-nextgen-remaster-effects-adapted-to-effects-loa).
+
+[Flying Stuff](https://www.mixmods.com.br/2020/02/flying-stuff-folhas-etc-caindo-pela-tela/).
+
+[Shoreline Waves](https://www.mixmods.com.br/2020/03/shoreline-waves-efeito-de-ondas/).
+
+[toonfx](https://www.mixmods.com.br/2017/12/toon-fx-efeitos-cartoon/). adapted with effects loader.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 REQUIRED/MANDATORY MODS FOR A PROPER COMIC 2024 EXPERIENCE:
@@ -67,6 +75,10 @@ These mods go in modloader folder unless stated differently.
 
 [Proper PS2 Vehicles - download from mixmods discord server](https://www.mixmods.com.br/2021/01/discord-mixmods/).
 
+[Effects Loader](https://www.mixmods.com.br/2017/04/effects-loader-instalar-efeitos-sem-substituir-arquivos/).
+
+[FxsFuncs](https://www.mixmods.com.br/2022/10/fxsfuncs/).
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 IF YOU ON GTA SA STEAM / RSG LAUNCHER VERSION YOU NEED TO FOLLOW THIS TO DOWNGRADE TO GTA SA 1.0, OTHERWISE IGNORE:
@@ -93,15 +105,13 @@ all of the mods that use textures listed below need to go in gtasa/modloader/pro
 
 [Santa Maria Pier Extended](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/).
 
-[flying stuff](https://www.mixmods.com.br/2020/02/flying-stuff-folhas-etc-caindo-pela-tela/).
-
 [project lumos](https://www.mixmods.com.br/2022/11/sa-project-lumos/).
 
 [sidewalk weeds](https://www.mixmods.com.br/2022/06/sa-sidewalk-weeds-grass-proc/) - delete procobj.dat and surfinfo.dat.
 
 [the birds update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/).
 
-[project props 2.2](https://www.mixmods.com.br/2021/10/project-props-v2-2-mais-objetos-no-mapa/) + [fixes from mixmods server](https://www.mixmods.com.br/2021/01/discord-mixmods/) - uncomment "#" from the weed line inside gtadat.txt to use optional weed. delete procobj.dat. install project props and surfinfo.dat (don't install ola included). This goes in modloader folder, not in proper comic adapted stuff folder.
+[project props 2.2](https://www.mixmods.com.br/2021/10/project-props-v2-2-mais-objetos-no-mapa/) + [fixes from mixmods server](https://www.mixmods.com.br/2021/01/discord-mixmods/) - uncomment "#" from the weed line inside gtadat.txt to use optional weed. delete procobj.dat. install project props and surfinfo.dat (don't install ola included). This goes in modloader folder, not in proper comic adapted stuff folder. [replace object.dat with this](google.com).
 
 [proper hd models](https://www.mixmods.com.br/2022/10/sa-proper-hd-models/).
 
@@ -164,8 +174,6 @@ all of the mods listed here go in modloader folder unless stated differently.
 [new drag effect (skimming over water)](https://www.mixmods.com.br/2014/10/novo-efeito-de-arrasto-rasante-em-cima-dagua/).
 
 [More Radar Icons](https://www.mixmods.com.br/2022/01/more-radar-icons/).
-
-[toonfx](https://www.mixmods.com.br/2017/12/toon-fx-efeitos-cartoon/)  - put in root folder.
 
 [mixsets](https://github.com/m0b-x/SA-MixSets/) - [tweaked ini](https://drive.google.com/file/d/16N-alAsOwI1XKADOf66yYV7Mn_ewa9Lz/view?usp=sharing).
 
@@ -318,8 +326,6 @@ e2001's male player animations ([download from mixmods discord server](https://w
 [realistic population](https://www.mixmods.com.br/2021/11/sa-sade-realistic-population-more-peds-popcycle-dat/).
 
 [rusty brown  ring donuts overhaul](https://www.mixmods.com.br/2020/02/rusty-browns-ring-donuts-overhaul-loja-de-donuts/).
-
-[shoreline waves](https://www.mixmods.com.br/2020/03/shoreline-waves-efeito-de-ondas/) - put models folder in root folder and shoreline waves folder in modloader.
 
 [shot cam shake](https://www.mixmods.com.br/2018/12/shot-cam-shake-tremer-tela-enquanto-atira/) - [tweaked ini](https://pastebin.com/KMUgdJVp).
 
