@@ -55,7 +55,11 @@ These mods go in modloader folder unless stated differently.
 
 [24 hrs asi](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/) - put in root folder.
 
+[graphics tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - [tweaked ini](https://pastebin.com/6rrbuFXt).
+
 [Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - put only RealSkyboxSA.asi in modloader\Proper Comic Adapted Stuff\Real Skybox\
+
+[Intense Original Car Colours](https://www.gtainside.com/en/sanandreas/mods/114039-intense-original-car-colours/download/).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -164,10 +168,6 @@ all of the mods listed here go in modloader folder unless stated differently.
 [mixsets](https://github.com/m0b-x/SA-MixSets/) - [tweaked ini](https://drive.google.com/file/d/16N-alAsOwI1XKADOf66yYV7Mn_ewa9Lz/view?usp=sharing).
 
 [urbanize](https://www.mixmods.com.br/2024/01/urbanize/) - put in root folder.
-
-[open limit adjuster](https://www.mixmods.com.br/2022/10/open-limit-adjuster/).
-
-[graphics tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - [tweaked ini](https://pastebin.com/6rrbuFXt).
 
 [story mode 2.0](https://www.mixmods.com.br/2022/11/story-mode/) - delete models folder.
 
