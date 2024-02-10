@@ -1,25 +1,13 @@
 
 All txds/images from the mods listed here including ROSA etc were tainted with comic look by Zeneric. Includes QoL and game altering mods by varies of modders. Inis tweaked here are optimized for Proper Comic 2024 (click the "tweaked ini" links and copy/paste texts).
 
-Purpose? To have a Proper GTA SA Comical 2024 Experience™.
+Purpose? To have a Proper GTA SA Comic 2024 Experience™.
 
 Download GTA SA Proper Comic 2024:
 
-[GTA SA Proper Comic 2024] - google drive.
+[GTA SA Proper Comic 2024] - google drive
 
-You need this installed: [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/) - don't install the optional one, and delete plant1.dff and plants.dat.
-
-and this: [Reshade](https://reshade.me/) and [download/use this reshade comic preset](https://pastebin.com/4qZic6cr).
-
-also this: [sa essential pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) - put in root folder. replace widescreenfix and silent patch with links provided below, and [replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
-
-[widescreen fix](https://thirteenag.github.io/wfp#gtasa) - replace sa essential pack's widescreen fix and delete the sa essential pack's HOR + script.
-
-[silent patch](https://cookieplmonster.github.io/mods/gta-sa/#silentpatch) - replace sa essential pack's silent patch and enable directional sun inside its ini.
-
-credits/links of improved GTA SA vanilla textures I tainted with comic look (DON'T DOWNLOAD THESE - THEY'RE HERE FOR CREDITS):
-
-[ROSA](https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/).
+credits/links of improved GTA SA vanilla textures I tainted with comic look, including ROSA, that come in the GTA SA PROPER COMIC 2024 download above (DON'T DOWNLOAD THESE BELOW - THEY'RE HERE FOR CREDITS/LINKS):
 
 [Proper Vehicles Retex 2k](https://www.mixmods.com.br/2022/04/sa-sade-proper-vehicles-retex/).
 
@@ -31,15 +19,65 @@ credits/links of improved GTA SA vanilla textures I tainted with comic look (DON
 
 [Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/).
 
-You need to download adapted/comicified versions of the mods listed here, that use textures:
-
-[download adapted/comicified textures for mods] - google drive.
-
-REQUIRED MODS (THAT USE COMICIFIED TEXTURES) - FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™:
-
-all of mods that use textures listed below need to go in gtasa/modloader/proper comic hd stuff/ folder, sharing same folder names. skip replacing/overwriting (don't replace the files already in proper comic hd stuff folder).
-
 [formal 2k grass textures hd](https://www.mixmods.com.br/2018/12/formal-2k-grass-textures-grama-hd/).
+
+[ezekiel's real sky boxes](https://www.youtube.com/watch?v=-Dl6YYUEyPw&t=5s).
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+REQUIRED/MANDATORY MODS FOR A PROPER COMIC 2024 EXPERIENCE:
+
+These mods go in modloader folder unless stated differently.
+
+[Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/) - don't install the optional one. delete plant1.dff, plants.dat, and object.dat. put "Proper Fixes" folder in modloader.
+
+[Reshade](https://reshade.me/) and [download/use this reshade comic preset](https://pastebin.com/4qZic6cr). put ReshadeComic.ini in gtasa root folder first then install reshade and have it use the reshadecomic.ini preset so reshade downloads effects needed for reshadecomic.ini only.
+
+[reshade auto toggle sa](https://www.mixmods.com.br/2020/04/iii-vc-sa-reshade-auto-toggle-desativar-efeitos-no-menu/).
+
+[sa essentials pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) - put in gtsa root folder. delete HOR+ asi and replace widescreenfix and silent patch with the links provided below.
+
+[widescreen fix](https://thirteenag.github.io/wfp#gtasa) - replace sa essentials pack's widescreen fix.
+
+[silent patch](https://cookieplmonster.github.io/mods/gta-sa/#silentpatch) - replace sa essentials pack's silent patch and enable directional sun inside its ini (change "0" to "1").
+
+[ROSA](https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/) change the folder named "RoSA Project Evolved" to "rosa" and put it in modloader.
+
+[skygfx extended + mobile details hd](https://www.mixmods.com.br/2022/11/sa-skygfx/) - put in root folder - [tweaked ini](https://pastebin.com/qaRmfQEj).
+
+[Color Mod by Ryosuke v2 + Fix](https://www.mixmods.com.br/2022/09/sa-color-mod/) - [tweaked ini](ggg.ggg.com). putting the ini in modloader (where colormod.asi is) worked for me instead of in root folder. try this if doesn't work for you.
+
+[replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
+
+[open limit adjuster](https://www.mixmods.com.br/2022/10/open-limit-adjuster/) - [tweaked ini](paste.bin).
+
+[24 hours real linear graphics timecyc](https://www.mixmods.com.br/2022/07/real-linear-graphics/) - put in root/data folder.
+
+[24 hrs asi](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/) - put in root folder.
+
+[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - put only RealSkyboxSA.asi in modloader\Proper Comic Adapted Stuff\Real Skybox\
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+IF YOU ON GTA SA STEAM / RSG LAUNCHER VERSION YOU NEED TO FOLLOW THIS TO DOWNGRADE TO GTA SA 1.0, OTHERWISE IGNORE:
+
+[AUDIO folder for GTA SA RIP/Steam (compressed)](https://www.mixmods.com.br/2012/07/pasta-audio-para-gta-sa-rip-steam-compactado/) put "audio" folder in "audio" folder located in GTA SA folder.
+
+your gta sa version is now 1.0.
+
+launch/play gta sa using "gta_sa.exe" (that came with SA essentials pack from mixmods).
+
+HOW TO LAUNCH THRU STEAM: 
+
+delete gta-sa.exe in gta sa folder and rename "gta_sa.exe" (that came with SA essentials pack from MIXMODS) to "gta-sa.exe" so you can launch it thru steam.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Optional (but recommended) hd texture mods that are TAINTED WITH PROPER COMIC:
+
+[download PROPER COMIC ADAPTED STUFF for the hd texture mods listed below here](google.com). put "proper comic adapted stuff" folder in gtasa\modloader\. can download wholly or individually.
+
+all of the mods that use textures listed below need to go in gtasa/modloader/proper comic adapted stuff/ folder, sharing same folder names. skip replacing/overwriting (don't replace the files already in proper comic adapted stuff folder).
 
 [vending machines remastered](https://www.mixmods.com.br/2019/09/vending-machines-remastered-maquinas-de-venda-em-hd/).
 
@@ -95,8 +133,9 @@ all of mods that use textures listed below need to go in gtasa/modloader/proper 
 
 [Walter's Brown Streak](https://www.mixmods.com.br/2019/05/walters-brown-streak-trem-remasterizado-em-hd/).
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-REQUIRED MODS (THAT DON'T USE COMICIFIED TEXTURES) FOR A PROPER GTA SA COMICAL 2024 EXPERIENCE™.
+OPTIONAL (but recommended) MODS THAT DON'T USE TEXTURES.
 
 all of the mods listed here go in modloader folder unless stated differently.
 
@@ -118,8 +157,6 @@ all of the mods listed here go in modloader folder unless stated differently.
 
 [new drag effect (skimming over water)](https://www.mixmods.com.br/2014/10/novo-efeito-de-arrasto-rasante-em-cima-dagua/).
 
-[skygfx extended + mobile details hd](https://www.mixmods.com.br/2022/11/sa-skygfx/) - put in root folder - [tweaked ini](https://pastebin.com/qaRmfQEj).
-
 [More Radar Icons](https://www.mixmods.com.br/2022/01/more-radar-icons/).
 
 [toonfx](https://www.mixmods.com.br/2017/12/toon-fx-efeitos-cartoon/)  - put in root folder.
@@ -137,12 +174,6 @@ all of the mods listed here go in modloader folder unless stated differently.
 [rain extinguish fire](https://www.mixmods.com.br/2021/10/rain-extinguish-fire-chuva-apaga-o-fogo/).
 
 [modelextras](https://github.com/user-grinch/ModelExtras) 
-
-[ezekiel's real sky boxes](https://www.youtube.com/watch?v=-Dl6YYUEyPw&t=5s) - [tweaked ini](https://pastebin.com/9MUKNfEG).
-
-[24 hours real linear graphics timecyc](https://www.mixmods.com.br/2022/07/real-linear-graphics/) - put in root/data folder.
-
-[24 hrs asi](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/) - put in root folder.
 
 [effectloader](https://www.mixmods.com.br/2017/04/effects-loader-instalar-efeitos-sem-substituir-arquivos/).
 
@@ -165,8 +196,6 @@ e2001's male player animations ([download from mixmods discord server](https://w
 [wheel dettach](https://www.mixmods.com.br/2020/07/wheel-detach-soltar-ou-estourar-roda/).
 
 [wind project](https://www.mixmods.com.br/2022/10/wind-project/).
-
-[reshade auto toggle sa](https://www.mixmods.com.br/2020/04/iii-vc-sa-reshade-auto-toggle-desativar-efeitos-no-menu/).
 
 [project2dfx](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - [my ini settings - to fit reshade's comic.fx draw distance i tweaked](https://pastebin.com/ZxJBZ1tu).
 
