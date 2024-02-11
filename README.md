@@ -43,7 +43,7 @@ These mods go in modloader folder unless stated differently.
 
 [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/) - don't install the optional one. delete plant1.dff, plants.dat, and object.dat. put "Proper Fixes" folder in modloader.
 
-[Reshade](https://reshade.me/) and [download/use this reshade comic preset](https://pastebin.com/4qZic6cr). put ReshadeComic.ini in gtasa root folder first then install reshade and have it use the reshadecomic.ini preset so reshade downloads effects needed for reshadecomic.ini only.
+[Reshade](https://reshade.me/) and [download/use this reshade comic preset](https://pastebin.com/4qZic6cr). put ReshadeComic.ini in gtasa root folder first then install reshade and have it use the reshadecomic.ini preset so reshade downloads effects needed for reshadecomic.ini only. be sure to disable AA in game for my reshade preset to work properly. can use smaa/fxaa/txaa filters from reshade and/or downsample - up to you.
 
 [reshade auto toggle sa](https://www.mixmods.com.br/2020/04/iii-vc-sa-reshade-auto-toggle-desativar-efeitos-no-menu/).
 
