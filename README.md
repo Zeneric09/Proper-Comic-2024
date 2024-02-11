@@ -73,8 +73,7 @@ These mods go in modloader folder unless stated differently.
 
 [Intense Original Car Colours](https://www.gtainside.com/en/sanandreas/mods/114039-intense-original-car-colours/download/).
 
-[Proper PS2 Vehicles - download from mixmods discord server](https://www.mixmods.com.br/2021/01/discord-mixmods/).
-
+[Proper PS2 Vehicles - download from mixmods discord server](https://www.mixmods.com.br/2021/01/discord-mixmods/). delete all txds from \PPV\ps2_file\.
 [Effects Loader](https://www.mixmods.com.br/2017/04/effects-loader-instalar-efeitos-sem-substituir-arquivos/).
 
 [FxsFuncs](https://www.mixmods.com.br/2022/10/fxsfuncs/).
