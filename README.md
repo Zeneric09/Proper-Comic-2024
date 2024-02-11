@@ -55,9 +55,9 @@ These mods go in modloader folder unless stated differently.
 
 [ROSA](https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/) change the folder named "RoSA Project Evolved" to "rosa" and put it in modloader.
 
-[skygfx extended + mobile details hd](https://www.mixmods.com.br/2022/11/sa-skygfx/) - put in root folder - [tweaked ini](https://pastebin.com/qaRmfQEj).
+[skygfx extended + mobile details hd](https://www.mixmods.com.br/2022/11/sa-skygfx/) - [tweaked ini](https://pastebin.com/qaRmfQEj).
 
-[Color Mod by Ryosuke v2 + Fix](https://www.mixmods.com.br/2022/09/sa-color-mod/) - [tweaked ini](ggg.ggg.com). putting the ini in modloader (where colormod.asi is) worked for me instead of in root folder. try this if doesn't work for you.
+[Color Mod by Ryosuke v2 + Fix](https://www.mixmods.com.br/2022/09/sa-color-mod/) - [tweaked ini](ggg.ggg.com).
 
 [replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
 
