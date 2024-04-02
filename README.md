@@ -74,7 +74,7 @@ These mods go in modloader folder unless stated differently.
 
 [Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - put only RealSkyboxSA.asi in modloader\propercomicrosa\ folder.
 
-[Cleo plus](https://www.mixmods.com.br/2023/10/cleoplus/).
+[Cleo plus](https://www.mixmods.com.br/2023/10/cleoplus/) - put the .cleo file in gtasa's cleo folder.
 
 [Intense Original Car Colours](https://www.gtainside.com/en/sanandreas/mods/114039-intense-original-car-colours/download/).
 
