@@ -60,7 +60,7 @@ These mods go in modloader folder unless stated differently.
 
 [skygfx extended + mobile details hd](https://www.mixmods.com.br/2022/11/sa-skygfx/) - put SkyGFX in modloader. [download/use this tweaked .ini for SkyGFX](https://pastebin.com/x770PydY) - Copy/paste text and name it as skygfx1.ini and replace with skygfx's. 
 
-[Color Mod by Ryosuke v2 + Fix](https://www.mixmods.com.br/2022/09/sa-color-mod/) - [tweaked ini](https://pastebin.com/eRyWe1xs) - copy/paste, name it as colormod.ini, and replace colormod's ini.
+[Color Mod by Ryosuke v2 + Fix](https://www.mixmods.com.br/2022/09/sa-color-mod/) - put color mod folder in modloader folder and put colormod.ini in gta sa root folder. [tweaked ini](https://pastebin.com/eRyWe1xs) - copy/paste, name it as colormod.ini, and replace colormod's ini.
 
 [replace modloader.ini with this](https://pastebin.com/Tx1QSHW8).
 
