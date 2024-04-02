@@ -44,6 +44,12 @@ REQUIRED/MANDATORY MODS FOR A PROPER COMIC 2024 EXPERIENCE:
 
 These mods go in modloader folder unless stated differently.
 
+[sa essentials pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) - put in gtsa root folder. delete HOR+ asi and replace widescreenfix and silent patch with the links provided below.
+
+[widescreen fix](https://thirteenag.github.io/wfp#gtasa) - replace sa essentials pack's widescreen fix.
+
+[silent patch](https://cookieplmonster.github.io/mods/gta-sa/#silentpatch) - replace sa essentials pack's silent patch and enable directional sun inside its ini (change "0" to "1").
+
 [Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/) - don't install the optional one. delete object.dat. rename "Proper Fixes" folder to "properfixes" and put it in modloader.
 
 [ROSA](https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/) - change folder name to "rosa" and put in modloader folder.
@@ -51,12 +57,6 @@ These mods go in modloader folder unless stated differently.
 [Reshade](https://reshade.me/) and [download/use this reshade comic preset](https://pastebin.com/sHBFJJ5F) - Copy/paste the pastebin text into a new document text and name it as ReshadeComic.ini. Put ReshadeComic.ini in gtasa root folder first then install reshade and have it use the reshadecomic.ini preset so reshade downloads effects needed for reshadecomic.ini only. be sure to disable AA in game for my reshade preset to work properly. can use smaa/fxaa/txaa filters from reshade and/or downsample - up to you.
 
 [reshade auto toggle sa](https://www.mixmods.com.br/2020/04/iii-vc-sa-reshade-auto-toggle-desativar-efeitos-no-menu/).
-
-[sa essentials pack](https://www.mixmods.com.br/2019/06/sa-essentials-pack/) - put in gtsa root folder. delete HOR+ asi and replace widescreenfix and silent patch with the links provided below.
-
-[widescreen fix](https://thirteenag.github.io/wfp#gtasa) - replace sa essentials pack's widescreen fix.
-
-[silent patch](https://cookieplmonster.github.io/mods/gta-sa/#silentpatch) - replace sa essentials pack's silent patch and enable directional sun inside its ini (change "0" to "1").
 
 [skygfx extended + mobile details hd](https://www.mixmods.com.br/2022/11/sa-skygfx/) - put SkyGFX in modloader. [download/use this tweaked .ini for SkyGFX](https://pastebin.com/x770PydY) - Copy/paste text and name it as skygfx1.ini and replace with skygfx's. 
 
