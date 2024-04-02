@@ -72,7 +72,7 @@ These mods go in modloader folder unless stated differently.
 
 [graphics tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - [tweaked ini](https://pastebin.com/jEFCbe9S).
 
-[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - put only RealSkyboxSA.asi in modloader\Proper Comic Adapted Stuff\Real Skybox\.
+[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - put only RealSkyboxSA.asi in modloader\propercomicrosa\ folder.
 
 [Intense Original Car Colours](https://www.gtainside.com/en/sanandreas/mods/114039-intense-original-car-colours/download/).
 
@@ -96,7 +96,7 @@ delete gta-sa.exe in gta sa folder and rename "gta_sa.exe" (that came with SA es
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-OPTIONAL (but recommended) MODS.
+Recommended mods (optional):
 
 all of the mods listed here go in modloader folder unless stated differently.
 
@@ -106,7 +106,7 @@ all of the mods listed here go in modloader folder unless stated differently.
 
 [new drag effect (skimming over water)](https://www.mixmods.com.br/2014/10/novo-efeito-de-arrasto-rasante-em-cima-dagua/).
 
-[m0b-x's edited mixsets](https://github.com/m0b-x/SA-MixSets/) - [tweaked ini](https://drive.google.com/file/d/1EjVNHaSQAMkJvbNi54S-x8xpTfqcL3qg/view?usp=sharing) - apr 2 2024.
+[m0b-x's edited mixsets](https://github.com/m0b-x/SA-MixSets/) - [tweaked ini](https://drive.google.com/file/d/1EjVNHaSQAMkJvbNi54S-x8xpTfqcL3qg/view?usp=sharing) - posted ini as of apr 2 2024.
 
 [urbanize](https://www.mixmods.com.br/2024/01/urbanize/) - put in root folder.
 
