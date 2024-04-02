@@ -1,5 +1,5 @@
 
-All txds/images from the mods listed here including ROSA etc were tainted with comic look by Zeneric. Includes QoL and game altering mods by varies of modders. Inis tweaked here are optimized for Proper Comic 2024 (click the "tweaked ini" links and copy/paste texts).
+All txds/images from the mods listed here including ROSA etc were tainted with comic look by Zeneric. Includes scripting mods by varies of modders. Inis tweaked here are optimized for Proper Comic 2024 (click the "tweaked ini" links and copy/paste texts).
 
 Purpose? To have a Proper GTA SA Comic 2024 Experience™.
 
@@ -36,15 +36,19 @@ credits/links of improved GTA SA vanilla textures I tainted with comic look, inc
 
 [NextGen and Combat FX Plus (Effects Pack)](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view) - credit: KaiQ from Mixmods discord server.
 
+[PRoject Props v2.2 Fixes](https://drive.google.com/file/d/1rwWikMyuXcfMKzzLMGrR_hQjN6-pXDSc/view) - credit: KaiQ from Mixmods discord server.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 REQUIRED/MANDATORY MODS FOR A PROPER COMIC 2024 EXPERIENCE:
 
 These mods go in modloader folder unless stated differently.
 
-[Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/) - don't install the optional one. delete object.dat. put "Proper Fixes" folder in modloader.
+[Proper Fixes](https://www.mixmods.com.br/2023/07/sa-proper-fixes/) - don't install the optional one. delete object.dat. rename "Proper Fixes" folder to "properfixes" and put it in modloader.
 
-[Reshade](https://reshade.me/) and [download/use this reshade comic preset](https://pastebin.com/4qZic6cr). put ReshadeComic.ini in gtasa root folder first then install reshade and have it use the reshadecomic.ini preset so reshade downloads effects needed for reshadecomic.ini only. be sure to disable AA in game for my reshade preset to work properly. can use smaa/fxaa/txaa filters from reshade and/or downsample - up to you.
+[ROSA](https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/) - change folder name to "rosa" and put in modloader folder.
+
+[Reshade](https://reshade.me/) and [download/use this reshade comic preset](https://pastebin.com/sHBFJJ5F) - Copy/paste the pastebin text into a new document text and name it as ReshadeComic.ini. Put ReshadeComic.ini in gtasa root folder first then install reshade and have it use the reshadecomic.ini preset so reshade downloads effects needed for reshadecomic.ini only. be sure to disable AA in game for my reshade preset to work properly. can use smaa/fxaa/txaa filters from reshade and/or downsample - up to you.
 
 [reshade auto toggle sa](https://www.mixmods.com.br/2020/04/iii-vc-sa-reshade-auto-toggle-desativar-efeitos-no-menu/).
 
@@ -54,25 +58,27 @@ These mods go in modloader folder unless stated differently.
 
 [silent patch](https://cookieplmonster.github.io/mods/gta-sa/#silentpatch) - replace sa essentials pack's silent patch and enable directional sun inside its ini (change "0" to "1").
 
-[skygfx extended + mobile details hd](https://www.mixmods.com.br/2022/11/sa-skygfx/) - [tweaked ini](https://pastebin.com/qaRmfQEj).
+[skygfx extended + mobile details hd](https://www.mixmods.com.br/2022/11/sa-skygfx/) - put SkyGFX in modloader. [download/use this tweaked .ini for SkyGFX](https://pastebin.com/x770PydY) - Copy/paste text and name it as skygfx1.ini and replace with skygfx's. 
 
-[Color Mod by Ryosuke v2 + Fix](https://www.mixmods.com.br/2022/09/sa-color-mod/) - [tweaked ini](ggg.ggg.com).
+[Color Mod by Ryosuke v2 + Fix](https://www.mixmods.com.br/2022/09/sa-color-mod/) - [tweaked ini](https://pastebin.com/eRyWe1xs) - copy/paste, name it as colormod.ini, and replace colormod's ini.
 
-[replace modloader.ini with this](https://pastebin.com/Yq7wpCn0).
+[replace modloader.ini with this](https://pastebin.com/Tx1QSHW8).
 
-[open limit adjuster](https://www.mixmods.com.br/2022/10/open-limit-adjuster/) - [tweaked ini](paste.bin).
+[open limit adjuster](https://www.mixmods.com.br/2022/10/open-limit-adjuster/) - [tweaked ini](https://pastebin.com/bc6hps8b).
 
 [24 hours real linear graphics timecyc](https://www.mixmods.com.br/2022/07/real-linear-graphics/) - put in root/data folder.
 
 [24 hrs asi](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/) - put in root folder.
 
-[graphics tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - [tweaked ini](https://pastebin.com/6rrbuFXt).
+[graphics tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - [tweaked ini](https://pastebin.com/jEFCbe9S).
 
 [Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - put only RealSkyboxSA.asi in modloader\Proper Comic Adapted Stuff\Real Skybox\.
 
 [Intense Original Car Colours](https://www.gtainside.com/en/sanandreas/mods/114039-intense-original-car-colours/download/).
 
 [Menu Background Remake](https://drive.google.com/file/d/1gzRPxIKh2Bo0f4hErKZBqYUdPQ8PmNED/view) - use "[Extended] (Minimalist 4K)". credit: Dodge RAM Vrum Vrum from Mixmods discord server.
+
+[Full Menu Background Image](https://www.mixmods.com.br/2020/05/full-menu-background-image-imagem-de-fundo-no-menu/).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -100,11 +106,9 @@ all of the mods listed here go in modloader folder unless stated differently.
 
 [new drag effect (skimming over water)](https://www.mixmods.com.br/2014/10/novo-efeito-de-arrasto-rasante-em-cima-dagua/).
 
-[mixsets](https://github.com/m0b-x/SA-MixSets/) - [tweaked ini](https://drive.google.com/file/d/16N-alAsOwI1XKADOf66yYV7Mn_ewa9Lz/view?usp=sharing).
+[m0b-x's edited mixsets](https://github.com/m0b-x/SA-MixSets/) - [tweaked ini](https://drive.google.com/file/d/1EjVNHaSQAMkJvbNi54S-x8xpTfqcL3qg/view?usp=sharing) - apr 2 2024.
 
 [urbanize](https://www.mixmods.com.br/2024/01/urbanize/) - put in root folder.
-
-[story mode 2.0](https://www.mixmods.com.br/2022/11/story-mode/) - delete models folder.
 
 [rain extinguish fire](https://www.mixmods.com.br/2021/10/rain-extinguish-fire-chuva-apaga-o-fogo/).
 
@@ -124,7 +128,7 @@ all of the mods listed here go in modloader folder unless stated differently.
 
 [wind project](https://www.mixmods.com.br/2022/10/wind-project/).
 
-[project2dfx](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - [my ini settings - to fit reshade's comic.fx draw distance i tweaked](https://pastebin.com/ZxJBZ1tu).
+[project2dfx](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - [tweaked ini](https://pastebin.com/itkqA2pX).
 
 [vehfuncs](https://www.mixmods.com.br/2023/01/sa-vehfuncs/).
 
