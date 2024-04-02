@@ -34,6 +34,8 @@ credits/links of improved GTA SA vanilla textures I tainted with comic look, inc
 
 [Shoreline Waves](https://www.mixmods.com.br/2020/03/shoreline-waves-efeito-de-ondas/).
 
+[NextGen and Combat FX Plus (Effects Pack)](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view) - credit: KaiQ from Mixmods discord server.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 REQUIRED/MANDATORY MODS FOR A PROPER COMIC 2024 EXPERIENCE:
@@ -69,6 +71,8 @@ These mods go in modloader folder unless stated differently.
 [Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - put only RealSkyboxSA.asi in modloader\Proper Comic Adapted Stuff\Real Skybox\.
 
 [Intense Original Car Colours](https://www.gtainside.com/en/sanandreas/mods/114039-intense-original-car-colours/download/).
+
+[Menu Background Remake](https://drive.google.com/file/d/1gzRPxIKh2Bo0f4hErKZBqYUdPQ8PmNED/view) - use "[Extended] (Minimalist 4K)". credit: Dodge RAM Vrum Vrum from Mixmods discord server.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
